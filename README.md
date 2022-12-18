@@ -8,9 +8,7 @@
 
 - It is a cinema living room project made in JS. And here the information is saved in Local Storage.
 
-- https://yhekim.github.io/Movie_Seat_Booking_App_in_Clarusway/
-
-- https://pedantic-visvesvaraya-c9b1ea.netlify.app/
+- https://morcicek.github.io/Seat-Booking-App_Js/
 
 ## Learning Outcomes
 
