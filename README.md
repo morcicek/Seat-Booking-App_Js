@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Movie_Seat_Booking_App (JS-05)
+# Project Movie_Seat_Booking_App (JS-05)
 
 ## Description
 - Project aims to display movie choices and seats in a theater to select from in order to purchase tickets
